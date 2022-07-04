@@ -31,9 +31,11 @@
 ## Usage
   
 Run the following command at the root of your project and answer the prompted questions:
-  
 `node index`
 
+* [Click Here](https://drive.google.com/file/d/1sdUSbQf93floJv89knM9WfTbUrd1-MzJ/view) for walkthrough.
+
+  ![Example Image](./images/Screenshot%202022-07-04%20013744.png)
 
 ## Contributing
 ### Paige Caiozzo
